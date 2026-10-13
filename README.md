@@ -210,4 +210,4 @@ FRAPS is available as a **full free version**, giving you access to all features
 Ready to take your gaming to the next level? **Download FRAPS free today and experience the ultimate gaming tool!**
 
 ---
-**Last updated:** 2026-10-13 15:45:45 UTC
+**Last updated:** 2026-10-13 21:05:38 UTC
